@@ -3,3 +3,6 @@ Unooo
 Cambio con el usuario littletooll
 
 Desde este usuario hice otro cambio sin saber que alguien cambiaba el otro.
+
+Cambio con conflicto
+
